@@ -44,9 +44,13 @@ form input.equal{
     width: 130px;
 }
 form input.operator{
-    color: rgb(21, 197, 197);
+    color: rgb(34, 206, 206);
 }
 h1{
     text-align: center;
     padding: 25px;
+}
+.footer{
+    text-align: center;
+    padding: 10px;
 }
